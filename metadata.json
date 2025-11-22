@@ -1,0 +1,7 @@
+{
+  "name": "Masajida - Masjid 4.0",
+  "description": "Comprehensive Enterprise Mosque Management System (ERP + CRM) with a Jamaah-centric Public App.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
